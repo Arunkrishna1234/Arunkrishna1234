@@ -4,10 +4,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🐍 Python Developer with strong fundamentals and hands-on project experience  
-- 📊 Passionate about data analysis, visualization, and deriving insights  
-- ☁️ Currently learning Cloud Computing with AWS  
-- 🚀 Interested in building scalable, data-driven, and backend applications  
+- 🐍 Python Developer with strong programming fundamentals  
+- 📊 Interested in data analysis, visualization, and insights  
+- ☁️ Currently learning Cloud Computing (AWS)  
+- 🚀 Passionate about building scalable, backend, and data-driven applications  
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkrishna1234&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkrishna1234&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkrishna1234&layout=compact&theme=tokyonight)
 
