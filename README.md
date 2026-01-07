@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/arun-krishna-s-257214248  
-- 📧 Email: arunkrishnas622@gmail.com  
+- 📧 Email: arunkrishnas622@gmail.com
 
 ---
 
