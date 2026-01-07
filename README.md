@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun Krishna S </h1>
+<h1 align="center">Hi 👋, I'm Arun Krishna S</h1>
 <h3 align="center">Python Developer | Data Analytics | Cloud Learner</h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ### 🔹 Cloud & DevOps (Learning)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -50,9 +50,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunkrishna1234&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunkrishna1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkrishna1234&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkrishna1234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,8 +61,12 @@
 
 <p align="center">
   <picture>
-    <source media_toggle="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkrishna1234/Arunkrishna1234/main/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Arunkrishna1234/Arunkrishna1234/main/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arunkrishna1234/Arunkrishna1234/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arunkrishna1234/Arunkrishna1234/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/Arunkrishna1234/Arunkrishna1234/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -75,4 +79,3 @@
 ---
 
 ⭐ *Always learning. Always building. Always improving.*
-
